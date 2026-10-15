@@ -1,0 +1,2 @@
+- The user's name is Sunny.
+- The user's favourite color is black.
